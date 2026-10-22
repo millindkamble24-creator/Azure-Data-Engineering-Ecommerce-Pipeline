@@ -1,0 +1,30 @@
+{
+    "customers.csv": {
+        "primary_key": "customer_id",
+        "description": "Customer master records"
+    },
+    "products.csv": {
+        "primary_key": "product_id",
+        "description": "Product catalog"
+    },
+    "orders.csv": {
+        "primary_key": "order_id",
+        "description": "Products header records"
+    },
+    "order_items_csv": {
+        "primary_key": "order_item_id",
+        "description": "Products pruchased in each order"
+    },
+    "payments.csv": {
+        "primary_key": "payment_id",
+        "description": "Order payment records"
+    },
+    "returns.csv": {
+        "primary_key": "returned_id",
+        "description": "Returned order items"
+    },
+    "website_events.json": {
+        "primary_key": "event_id",
+        "description": "Website interaction events in JSON Lines format"
+    }
+}

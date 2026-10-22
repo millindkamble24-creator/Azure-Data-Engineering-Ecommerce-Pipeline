@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,city,state,registration_date,updated_at
+100001,Rahul,Patel,customer100001@example.com,Hyderabad,Telangana,2024-02-11,2026-10-19 10:00:00
+100002,Rohan,Rao,customer100002@example.com,Hyderabad,Gujarat,2023-09-19,2026-10-19 10:00:00
+100003,Sneha,Iyer,customer100003@example.com,Hyderabad,West Bengal,2024-09-16,2026-10-19 10:00:00
+100004,Rohan,Reddy,customer100004@example.com,Hyderabad,Maharashtra,2025-03-06,2026-10-19 10:00:00
+100005,kiran,Reddy,customer100005@example.com,Hyderabad,Maharashtra,2023-11-10,2026-10-19 10:00:00
+100006,Sneha,Singh,customer100006@example.com,Hyderabad,Rajasthan,2025-07-09,2026-10-19 10:00:00
+100007,Ananya,Naidu,customer100007@example.com,Hyderabad,Telangana,2025-02-05,2026-10-19 10:00:00
+100008,Rahul,Iyer,customer100008@example.com,Hyderabad,West Bengal,2023-07-19,2026-10-19 10:00:00
+100009,Rohan,Das,customer100009@example.com,Hyderabad,Tamil Nadu,2026-01-31,2026-10-19 10:00:00
+100010,Arjun,Verma,customer100010@example.com,Hyderabad,Telangana,2023-02-22,2026-10-19 10:00:00
+100011,Neha,Mishra,customer100011@example.com,Hyderabad,Delhi,2025-02-23,2026-10-19 10:00:00
+100012,Amit,Kumar,customer100012@example.com,Hyderabad,kerala,2024-06-11,2026-10-19 10:00:00
+100013,Neha,Mishra,customer100013@example.com,Hyderabad,Gujarat,2025-02-23,2026-10-19 10:00:00
+100014,Neha,Singh,customer100014@example.com,Hyderabad,Gujarat,2025-07-17,2026-10-19 10:00:00
+100015,Sneha,Singh,customer100015@example.com,Hyderabad,Gujarat,2025-04-04,2026-10-19 10:00:00
+100016,Manish,Pillai,customer100016@example.com,Hyderabad,Gujarat,2025-02-19,2026-10-19 10:00:00
+100017,Arjun,Naidu,customer100017@example.com,Hyderabad,Delhi,2025-10-06,2026-10-19 10:00:00
+100018,Amit,Gupta,customer100018@example.com,Hyderabad,Karnataka,2025-04-22,2026-10-19 10:00:00
+100019,kiran,Singh,customer100019@example.com,Hyderabad,Rajasthan,2025-09-03,2026-10-19 10:00:00
+100020,Arjun,Gupta,customer100020@example.com,Hyderabad,Maharashtra,2024-04-28,2026-10-19 10:00:00
+100021,Vikram,Joshi,customer100021@example.com,Hyderabad,Delhi,2023-09-01,2026-10-19 10:00:00
+100022,Rohan,Kumar,customer100022@example.com,Hyderabad,Maharashtra,2023-10-09,2026-10-19 10:00:00
+100023,Priya,Kumar,customer100023@example.com,Hyderabad,Karnataka,2025-01-04,2026-10-19 10:00:00
+100024,Ananya,Singh,customer100024@example.com,Hyderabad,kerala,2024-09-30,2026-10-19 10:00:00
+100025,Rahul,Verma,customer100025@example.com,Hyderabad,Gujarat,2023-04-03,2026-10-19 10:00:00
+100026,Rahul,Iyer,customer100026@example.com,Hyderabad,West Bengal,2023-09-03,2026-10-19 10:00:00
+100027,Priya,Patel,customer100027@example.com,Hyderabad,Maharashtra,2026-03-07,2026-10-19 10:00:00
+100028,Amit,Joshi,customer100028@example.com,Hyderabad,Rajasthan,2025-05-21,2026-10-19 10:00:00
+100029,Neha,Mishra,customer100029@example.com,Hyderabad,Delhi,2025-06-24,2026-10-19 10:00:00
+100030,Manish,Gupta,customer100030@example.com,Hyderabad,Maharashtra,2023-08-25,2026-10-19 10:00:00
+100031,Divya,Pillai,customer100031@example.com,Hyderabad,Maharashtra,2023-03-19,2026-10-19 10:00:00
+100032,Priya,Mishra,customer100032@example.com,Hyderabad,Tamil Nadu,2023-12-16,2026-10-19 10:00:00
+100033,Manish,Joshi,customer100033@example.com,Hyderabad,Telangana,2025-10-25,2026-10-19 10:00:00
+100034,Meera,Rao,customer100034@example.com,Hyderabad,Delhi,2024-08-30,2026-10-19 10:00:00
+100035,kiran,Singh,customer100035@example.com,Hyderabad,Rajasthan,2025-07-30,2026-10-19 10:00:00
+100036,pooja,Iyer,customer100036@example.com,Hyderabad,Telangana,2024-08-07,2026-10-19 10:00:00
+100037,Ananya,Gupta,customer100037@example.com,Hyderabad,Rajasthan,2024-08-11,2026-10-19 10:00:00
+100038,Sneha,Sharma,customer100038@example.com,Hyderabad,Rajasthan,2024-12-22,2026-10-19 10:00:00
+100039,Ananya,Khan,customer100039@example.com,Hyderabad,Tamil Nadu,2026-02-24,2026-10-19 10:00:00
+100040,Rohan,Rao,customer100040@example.com,Hyderabad,West Bengal,2024-06-08,2026-10-19 10:00:00
+100041,Rohan,Pillai,customer100041@example.com,Hyderabad,Karnataka,2024-12-15,2026-10-19 10:00:00
+100042,Amit,Iyer,customer100042@example.com,Hyderabad,Gujarat,2026-01-08,2026-10-19 10:00:00
+100043,Manish,Reddy,customer100043@example.com,Hyderabad,Gujarat,2024-03-22,2026-10-19 10:00:00
+100044,Arjun,Mishra,customer100044@example.com,Hyderabad,Maharashtra,2025-10-04,2026-10-19 10:00:00
+100045,Sanjay,Pillai,customer100045@example.com,Hyderabad,Telangana,2024-10-04,2026-10-19 10:00:00
+100046,Arjun,Joshi,customer100046@example.com,Hyderabad,kerala,2025-11-20,2026-10-19 10:00:00
+100047,Rahul,Singh,customer100047@example.com,Hyderabad,Maharashtra,2024-07-15,2026-10-19 10:00:00
+100048,Manish,Khan,customer100048@example.com,Hyderabad,Rajasthan,2025-01-25,2026-10-19 10:00:00
+100049,kiran,Mishra,customer100049@example.com,Hyderabad,West Bengal,2024-01-23,2026-10-19 10:00:00
+100050,Sneha,Iyer,customer100050@example.com,Hyderabad,Gujarat,2025-02-01,2026-10-19 10:00:00

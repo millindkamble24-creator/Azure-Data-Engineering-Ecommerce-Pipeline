@@ -1,0 +1,26 @@
+#Python
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+#Environemt variables and secrets
+.env
+.env.*
+!.env.example
+
+#Editor and opeating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+#Temporary files
+*.tmp
+*.log
+
+#Python test and converage output
+.pytest_cache/
+.coverage
+.htmlcov/
